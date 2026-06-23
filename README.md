@@ -1,6 +1,6 @@
 # Hi, I'm Bilsan 👋
 
-🎓 Final-year Robotics & AI student at Jadara University, Jordan ت 
+🎓 Final-year Robotics & AI student at Jadara University, Jordan 
 🔭 Currently building Computer Vision projects using Python and OpenCV  
 🌱 Currently learning: OpenCV, Machine Learning, and Image Processing  
 🎯 Goal: Pursuing a Master's degree in AI in Australia  
