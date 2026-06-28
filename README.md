@@ -21,7 +21,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Image Filters](https://github.com/Bilsan0/image-filters) | Interactive app to apply image filters | Python, OpenCV |
-
+| [Smart Safety Monitor](https://github.com/Bilsan0/smart-safety-monitor) | AI safety system: gas detection + eye closure monitoring | Python, OpenCV, MediaPipe, Arduino |
 ---
 
 ## 📊 GitHub Stats
