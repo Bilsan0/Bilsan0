@@ -4,7 +4,7 @@
 🔭 Currently building Computer Vision projects using Python and OpenCV  
 🌱 Currently learning: OpenCV, Machine Learning, and Image Processing  
 🎯 Goal: Pursuing a Master's degree in AI in Australia  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bilsan-a-89164b328)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/bilsan-alshboul-89164b328)
 
 ---
 
